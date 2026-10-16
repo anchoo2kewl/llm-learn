@@ -3,7 +3,7 @@ module github.com/anchoo2kewl/llm-learn
 go 1.26.0
 
 require (
-	github.com/anchoo2kewl/go-learn v0.0.0-20261016134945-8b0cd7678d2a
+	github.com/anchoo2kewl/go-learn v0.0.0-20261016154656-bad64f8d476a
 	github.com/rs/zerolog v1.35.1
 	modernc.org/sqlite v1.60.1
 )
